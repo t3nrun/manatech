@@ -1,0 +1,8 @@
+{
+  "name": "book.manatech.guide.name",
+  "landing_text": "book.manatech.guide.landing",
+  "version": 2,
+  "use_resource_pack": true,
+  "creative_tab": "manatech:main",
+  "show_progress": false
+}

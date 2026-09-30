@@ -1,0 +1,127 @@
+{
+  "name": "Fire — schematics",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Open Grimoire → Schematics. Circles I–VII require every page through 2/3/5/7/9/10/12. The bottom button cycles pages and the combined overlay. Each page needs a closed contour around Creation. Scroll to zoom. Align on the overlay table sorts and centers pages."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Flame. Creation. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Heating. Creation + Density. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Sparks. Creation + Quantity. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Fire barrage. Creation + Movement + Quantity. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Fireball. Creation + Movement. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Fire zone. Creation + Area. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Enhanced Ball 3. Creation + Movement + Density. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Flamethrower. Creation + Movement. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Greater barrage. Creation + Movement + Area + Quantity. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Magma. Creation + Density. Requires all pages 1–5.Page 2 uses Earth."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Meteor. Creation + Movement + Density. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Steam. Creation. Requires all pages 1–5.Page 2 uses Water."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Enhanced Ball 4. Creation + Movement + Density. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Held flamethrower. Creation + Movement + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Long barrage. Creation + Area + Quantity + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Meteorite. Creation + Movement + Density. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Fire tornado. Creation + Movement + Area + Link. Requires all pages 1–7.Page 2 uses Air."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Flame beam. Creation + Movement + Density. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Meteor rain. Creation + Movement + Density + Area + Quantity. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Flame pillar. Creation + Density + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Fire storm. Creation + Movement + Area + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Large explosion. Creation + Density + Area. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Disintegration. Creation + Density + Link. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Holy beam. Creation + Movement + Density + Defense. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Sun shard. Creation + Density + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: New Star. Creation + Density + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Supernova. Creation + Density + Area. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: White Star. Creation + Density + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "References do not grant pages or unlock circles. Creation belongs in the center of every page. Specific casting effects currently exist for 21 Fire forms of circles 1–6. Other forms and circle 7 are still planned."
+    }
+  ]
+}

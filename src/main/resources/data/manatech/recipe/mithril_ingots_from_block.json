@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "manatech:mithril_block"
+    }
+  ],
+  "result": {
+    "id": "manatech:mithril_ingot",
+    "count": 9
+  }
+}

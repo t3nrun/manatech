@@ -1,0 +1,19 @@
+{
+  "name": "Mana and levels",
+  "category": "manatech:magic",
+  "icon": "manatech:raw_manastone",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Your initial level 1–11 is chosen once. The blue vessel shows mana. Use a manastone to fill it; unused charge stays in the stone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "1/30 of absorbed mana also advances your level. Passive recovery restores 0.5% of maximum each second without granting experience."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Large values use k for thousand, m for million, b for billion, t for trillion, qa for quadrillion and qi for quintillion. Example: 16.38k MP. Tooltips, the vessel and messages round displayed values; charge calculations retain full precision."
+    }
+  ]
+}

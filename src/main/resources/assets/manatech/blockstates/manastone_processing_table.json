@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "manatech:block/manastone_processing_table"
+    }
+  }
+}

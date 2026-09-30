@@ -1,0 +1,39 @@
+{
+  "name": "First spells",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_stylus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Use a stylus on an inscription table. Trace a guide, export the layer, then use its page on the overlay table."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Each element has twelve distinct schemes shared by all stylus and table tiers. Choose the element before drawing; Ctrl+Backspace clears a layer. In symbol mode place Creation in the center of every layer and other modifiers in the eight surrounding slots. Creation is required to export and cast."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Twelve layers are evenly divided across seven circles: I — 1–2; II — 3; III — 4–5; IV — 6–7; V — 8–9; VI — 10; VII — 11–12. Tool tiers unlock 2/3/5/7/9/10/12 layers in total. The weaker stylus or table determines access; older inaccessible drafts are preserved."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Open the overlay table with an empty hand. Add copies, move, rotate, resize and reorder them. Use a grimoire on the table to save a snapshot."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Select the saved spell in your grimoire. Sneak-use in the air to cast; use on a mana plate to display the circle."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Stylus tiers I–VII reveal 2/3/4/5/6/8/8 peripheral rings per layer. Central Creation is separate. The grimoire Schematics button shows reference drawings for the spell catalogue. Drawing requires matching stylus and table tiers."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Casting requires every distinct layer through the circle boundary: 2/3/5/7/9/10/12 pages. Order them by number and close a contour around Creation on each. Copies cannot replace missing numbers. Align sorts and centers the overlay. Incomplete compositions can remain drafts."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "manatech:manatech_guide"
+    }
+  ]
+}

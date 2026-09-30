@@ -1,0 +1,11 @@
+{
+  "name": "Six elements",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_grimoire",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Fire, Water, Energy, Air, Void and Earth have shared canvas/world colors. The current casting prototype heals with Water and damages with other elements."
+    }
+  ]
+}

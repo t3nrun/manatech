@@ -1,0 +1,6 @@
+{
+  "parent": "manatech:block/mana_plate",
+  "textures": {
+    "top": "manatech:block/mana_plate_formed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Manastone cutting",
+  "category": "manatech:tech",
+  "icon": "manatech:manastone_processing_table",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Use the processing table and place a raw cluster in the left slot. Press Cut while the pale marker is inside the green zone. Make six consecutive precise cuts. A miss restarts the attempt without consuming the cluster."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The finished stone holds 16.38k MP. Manual cutting requires no mana. The result appears immediately after the sixth precise cut. Closing returns both slots to your inventory."
+    }
+  ]
+}

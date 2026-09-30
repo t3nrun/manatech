@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "manatech:raw_orichalcum"
+    },
+    {
+      "item": "manatech:orichalcum_ore"
+    },
+    {
+      "item": "manatech:deepslate_orichalcum_ore"
+    }
+  ],
+  "result": {
+    "id": "manatech:orichalcum_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

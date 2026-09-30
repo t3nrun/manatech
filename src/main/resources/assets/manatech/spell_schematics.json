@@ -1,0 +1,1898 @@
+[
+  {
+    "element": 0,
+    "id": "flame",
+    "name": "Огонёк",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "heat",
+    "name": "Нагрев",
+    "circle": 1,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "sparks",
+    "name": "Искры",
+    "circle": 1,
+    "symbols": [
+      0,
+      5
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "barrage",
+    "name": "Огненный шквал",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      5
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "fireball",
+    "name": "Огненный шар",
+    "circle": 2,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "zone",
+    "name": "Зона огня",
+    "circle": 2,
+    "symbols": [
+      0,
+      4
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "enhanced_ball_3",
+    "name": "Усиленный огненный шар",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "flamethrower",
+    "name": "Огнемёт",
+    "circle": 3,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "greater_barrage",
+    "name": "Усиленный шквал",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "magma",
+    "name": "Магма",
+    "circle": 3,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": 5,
+    "ready": false,
+    "design": 3
+  },
+  {
+    "element": 0,
+    "id": "meteor",
+    "name": "Метеор",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 4
+  },
+  {
+    "element": 0,
+    "id": "steam",
+    "name": "Пар",
+    "circle": 3,
+    "symbols": [
+      0
+    ],
+    "extra": 1,
+    "ready": false,
+    "design": 5
+  },
+  {
+    "element": 0,
+    "id": "enhanced_ball_4",
+    "name": "Усиленный огненный шар",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "held_flame",
+    "name": "Удерживаемый огнемёт",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      7
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "long_barrage",
+    "name": "Длительный шквал",
+    "circle": 4,
+    "symbols": [
+      0,
+      4,
+      5,
+      7
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "meteorite",
+    "name": "Метеорит",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 3
+  },
+  {
+    "element": 0,
+    "id": "tornado",
+    "name": "Огненное торнадо",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      4,
+      7
+    ],
+    "extra": 3,
+    "ready": true,
+    "design": 4
+  },
+  {
+    "element": 0,
+    "id": "flame_beam",
+    "name": "Пламенный луч",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "meteor_rain",
+    "name": "Метеоритный дождь",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "pillar",
+    "name": "Столб пламени",
+    "circle": 5,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "storm",
+    "name": "Огненная буря",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 3
+  },
+  {
+    "element": 0,
+    "id": "big_explosion",
+    "name": "Большой взрыв",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "disintegration",
+    "name": "Дезинтеграция",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "holy_beam",
+    "name": "Святой луч",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 2
+  },
+  {
+    "element": 0,
+    "id": "sun_shard",
+    "name": "Осколок солнца",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      8
+    ],
+    "extra": -1,
+    "ready": true,
+    "design": 3
+  },
+  {
+    "element": 0,
+    "id": "new_star",
+    "name": "Основа новой звезды",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 0,
+    "id": "supernova",
+    "name": "Сверхновая",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 0,
+    "id": "white_star",
+    "name": "Белая звезда",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c1_0",
+    "name": "Создание воды",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c1_1",
+    "name": "струя",
+    "circle": 1,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c1_2",
+    "name": "остужение нагретого предмета",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c2_0",
+    "name": "Водяной шар",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c2_1",
+    "name": "водяной заслон",
+    "circle": 2,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c2_2",
+    "name": "ледяной осколок",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      3
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c3_0",
+    "name": "Водяной резак",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c3_1",
+    "name": "водоворот",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c3_2",
+    "name": "водяные оковы",
+    "circle": 3,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c4_0",
+    "name": "Водяной купол",
+    "circle": 4,
+    "symbols": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c4_1",
+    "name": "водяной залп",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c4_1_ice",
+    "name": "Ледяной залп",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c4_2",
+    "name": "холодная завеса",
+    "circle": 4,
+    "symbols": [
+      0,
+      3,
+      4,
+      6
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 3
+  },
+  {
+    "element": 1,
+    "id": "c5_0",
+    "name": "Приливная волна",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c5_1",
+    "name": "водяной шторм",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c5_2",
+    "name": "копьё глубин",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c6_0",
+    "name": "Тюрьма глубин",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c6_1",
+    "name": "великий водоворот",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c6_2",
+    "name": "водяная крепость",
+    "circle": 6,
+    "symbols": [
+      0,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 1,
+    "id": "c6_2_ice",
+    "name": "Ледяная крепость",
+    "circle": 6,
+    "symbols": [
+      0,
+      3,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 3
+  },
+  {
+    "element": 1,
+    "id": "c7_0",
+    "name": "Сердце океана",
+    "circle": 7,
+    "symbols": [
+      0,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 1,
+    "id": "c7_1",
+    "name": "великий прилив",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 1,
+    "id": "c7_2",
+    "name": "бездна",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 2,
+    "id": "lighten",
+    "name": "Облегчение",
+    "circle": 3,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 2,
+    "id": "rotate",
+    "name": "Вращение",
+    "circle": 3,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 2,
+    "id": "stabilize",
+    "name": "Стабилизация",
+    "circle": 3,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 2,
+    "id": "beam",
+    "name": "Энергетический луч",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 2,
+    "id": "burst",
+    "name": "Всплеск энергии",
+    "circle": 4,
+    "symbols": [
+      0,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 2,
+    "id": "hover",
+    "name": "Парение",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 2,
+    "id": "load",
+    "name": "Управление нагрузкой",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 3
+  },
+  {
+    "element": 2,
+    "id": "stabilize_link",
+    "name": "Управляемая стабилизация",
+    "circle": 4,
+    "symbols": [
+      0,
+      6,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 4
+  },
+  {
+    "element": 2,
+    "id": "transfer",
+    "name": "Передача энергии",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 5
+  },
+  {
+    "element": 2,
+    "id": "containment",
+    "name": "Оболочка стабилизации",
+    "circle": 5,
+    "symbols": [
+      0,
+      4,
+      6,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 2,
+    "id": "focused_beam",
+    "name": "Сфокусированный луч",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 2,
+    "id": "network",
+    "name": "Распределение энергии",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      5,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 2,
+    "id": "cascade",
+    "name": "Энергетический каскад",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      5,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 2,
+    "id": "levitation_field",
+    "name": "Поле левитации",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 2,
+    "id": "reactor",
+    "name": "Реакторное поле",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 2,
+    "id": "core",
+    "name": "Совершенное ядро",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 2,
+    "id": "grid",
+    "name": "Великая энергетическая сеть",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      5,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 2,
+    "id": "resonance",
+    "name": "Резонансный импульс",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      2,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c1_0",
+    "name": "Поток ветра",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c1_1",
+    "name": "порыв",
+    "circle": 1,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c1_2",
+    "name": "воздушная подушка",
+    "circle": 1,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c2_0",
+    "name": "Воздушный удар",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c2_1",
+    "name": "ветровой заслон",
+    "circle": 2,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c2_2",
+    "name": "ветровой прыжок",
+    "circle": 2,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c3_0",
+    "name": "Ветряное лезвие",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c3_1",
+    "name": "вихрь",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c3_2",
+    "name": "воздушные оковы",
+    "circle": 3,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c4_0",
+    "name": "Воздушный купол",
+    "circle": 4,
+    "symbols": [
+      0,
+      4,
+      6
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c4_1",
+    "name": "шквал лезвий",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c4_2",
+    "name": "воздушная ступень",
+    "circle": 4,
+    "symbols": [
+      0,
+      2,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c5_0",
+    "name": "Ураган",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c5_1",
+    "name": "громовой хлопок",
+    "circle": 5,
+    "symbols": [
+      0,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c5_2",
+    "name": "зона тишины",
+    "circle": 5,
+    "symbols": [
+      0,
+      4,
+      6,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c6_0",
+    "name": "Барическая тюрьма",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c6_1",
+    "name": "небесный коридор",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c6_2",
+    "name": "буря лезвий",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 3,
+    "id": "c7_0",
+    "name": "Разрыв небес",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 3,
+    "id": "c7_1",
+    "name": "великий циклон",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      4,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 3,
+    "id": "c7_2",
+    "name": "небесный бастион",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      6,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "absorb",
+    "name": "Поглощение",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "mote",
+    "name": "Сгусток Пустоты",
+    "circle": 1,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "push",
+    "name": "Импульс Пустоты",
+    "circle": 1,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "decompose",
+    "name": "Разложение",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "fragments",
+    "name": "Осколки Пустоты",
+    "circle": 2,
+    "symbols": [
+      0,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "veil",
+    "name": "Завеса Пустоты",
+    "circle": 2,
+    "symbols": [
+      0,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "absorb_link",
+    "name": "Удерживаемое поглощение",
+    "circle": 3,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "anchor",
+    "name": "Пустотный якорь",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "storage",
+    "name": "Хранилище",
+    "circle": 3,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "beam",
+    "name": "Луч Пустоты",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "beam_link",
+    "name": "Удерживаемый луч Пустоты",
+    "circle": 4,
+    "symbols": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "screen",
+    "name": "Пустотный заслон",
+    "circle": 4,
+    "symbols": [
+      0,
+      4,
+      6
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "decompose_area",
+    "name": "Разложение области",
+    "circle": 5,
+    "symbols": [
+      0,
+      2,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "isolation",
+    "name": "Изоляционная оболочка",
+    "circle": 5,
+    "symbols": [
+      0,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "storage_space",
+    "name": "Расширенное хранилище",
+    "circle": 5,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "phase_barrier",
+    "name": "Фазовый барьер",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      6,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "prison",
+    "name": "Пустотная тюрьма",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "vortex",
+    "name": "Пустотный вихрь",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      2,
+      4,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 4,
+    "id": "abyss_core",
+    "name": "Ядро бездны",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 4,
+    "id": "bastion",
+    "name": "Бастион Пустоты",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 4,
+    "id": "unravel",
+    "name": "Великое разложение",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      4,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c1_0",
+    "name": "Поднять камень",
+    "circle": 1,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c1_1",
+    "name": "земляной выступ",
+    "circle": 1,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c1_2",
+    "name": "уплотнение грунта",
+    "circle": 1,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c2_0",
+    "name": "Каменный шип",
+    "circle": 2,
+    "symbols": [
+      0,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c2_1",
+    "name": "каменный заслон",
+    "circle": 2,
+    "symbols": [
+      0
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c2_2",
+    "name": "бросок камня",
+    "circle": 2,
+    "symbols": [
+      0,
+      1,
+      2
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c3_0",
+    "name": "Каменный залп",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c3_1",
+    "name": "земляные оковы",
+    "circle": 3,
+    "symbols": [
+      0,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c3_2",
+    "name": "земляная волна",
+    "circle": 3,
+    "symbols": [
+      0,
+      1,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "earth_projectile",
+    "name": "Земляной снаряд с Воздухом",
+    "circle": 3,
+    "symbols": [
+      0,
+      1
+    ],
+    "extra": 3,
+    "ready": false,
+    "design": 3
+  },
+  {
+    "element": 5,
+    "id": "mud",
+    "name": "Грязь",
+    "circle": 3,
+    "symbols": [
+      0
+    ],
+    "extra": 1,
+    "ready": false,
+    "design": 4
+  },
+  {
+    "element": 5,
+    "id": "c4_0",
+    "name": "Каменная броня",
+    "circle": 4,
+    "symbols": [
+      0,
+      6,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c4_1",
+    "name": "лес шипов",
+    "circle": 4,
+    "symbols": [
+      0,
+      4,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c4_2",
+    "name": "временный мост",
+    "circle": 4,
+    "symbols": [
+      0,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c5_0",
+    "name": "Землетрясение",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c5_1",
+    "name": "каменный страж",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      6,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c5_2",
+    "name": "камнепад",
+    "circle": 5,
+    "symbols": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c6_0",
+    "name": "Земляная крепость",
+    "circle": 6,
+    "symbols": [
+      0,
+      6,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c6_1",
+    "name": "разлом",
+    "circle": 6,
+    "symbols": [
+      0,
+      1,
+      4,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c6_2",
+    "name": "каменная гробница",
+    "circle": 6,
+    "symbols": [
+      0,
+      2,
+      7
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  },
+  {
+    "element": 5,
+    "id": "c7_0",
+    "name": "Подъём горы",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 0
+  },
+  {
+    "element": 5,
+    "id": "c7_1",
+    "name": "тектонический удар",
+    "circle": 7,
+    "symbols": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 1
+  },
+  {
+    "element": 5,
+    "id": "c7_2",
+    "name": "несокрушимый бастион",
+    "circle": 7,
+    "symbols": [
+      0,
+      2,
+      6,
+      7,
+      8
+    ],
+    "extra": -1,
+    "ready": false,
+    "design": 2
+  }
+]

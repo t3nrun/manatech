@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "manatech:raw_silver"
+    },
+    {
+      "item": "manatech:silver_ore"
+    },
+    {
+      "item": "manatech:deepslate_silver_ore"
+    }
+  ],
+  "result": {
+    "id": "manatech:silver_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

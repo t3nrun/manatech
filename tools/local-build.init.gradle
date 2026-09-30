@@ -1,0 +1,2 @@
+// Keep the existing build directory in the project, as requested.
+gradle.beforeProject { project -> project.layout.buildDirectory.set(project.file('build-verify-3')) }

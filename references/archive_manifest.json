@@ -1,0 +1,107 @@
+[
+  {
+    "source": "C:\\Users\\vital\\Downloads\\video_17010621247574.mp4",
+    "saved": "references/effects/video_17010621247574.mp4",
+    "status": "saved",
+    "bytes": 4205351,
+    "sha256": "677736594674C53F35335B98499EA38F877C65C4E28C5FBC2F960349386D0F3C"
+  },
+  {
+    "source": "C:\\Users\\vital\\Downloads\\video_17010582188118.mp4",
+    "saved": "references/effects/video_17010582188118.mp4",
+    "status": "saved",
+    "bytes": 6865001,
+    "sha256": "137B5B00D70600564439DF5958F08775E1BF949BC5193F8DCC0BB63396CACA7B"
+  },
+  {
+    "source": "C:\\Users\\vital\\Downloads\\video_17010487947350.mp4",
+    "saved": "references/effects/video_17010487947350.mp4",
+    "status": "saved",
+    "bytes": 5645069,
+    "sha256": "B7764859CC859F60284962EDD7980D3F66EA9F318E46F77CF96E6A16CD6C665C"
+  },
+  {
+    "source": "C:\\Users\\vital\\Downloads\\video_17010634027094.mp4",
+    "saved": "references/effects/video_17010634027094.mp4",
+    "status": "saved",
+    "bytes": 3380190,
+    "sha256": "9179D7A833C7BD78F70D842FF2D49CEA2B67F6F1965ADD39ADE947FA2C52D617"
+  },
+  {
+    "source": "C:\\Users\\vital\\Downloads\\Снимок экрана 2026-09-27 194432.png",
+    "saved": "references/feedback/paired-contours.png",
+    "status": "saved",
+    "bytes": 63813,
+    "sha256": "87A99AE91E9F045CB7627F758C1EFDAD3D1B6A198BAA5D6B51AE2ED53E3696D3"
+  },
+  {
+    "source": "C:\\Users\\vital\\.codex\\visualizations\\2026\\09\\27\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\deepslate_manastone_ore_preview.png",
+    "saved": "references/materials/manastone-ore-preview.png",
+    "status": "saved",
+    "bytes": 3293,
+    "sha256": "ED553BACAE209950F668E0766D779457A58AFBF3CBB91BC76FF11732DC6C71EC"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-82041444-ee13-4e4a-9e17-d04ff9aa9bbf.png",
+    "saved": "references/visual/minecraft-runes-beam-reference.png",
+    "status": "saved",
+    "bytes": 179884,
+    "sha256": "3A91E81F6DA9577325D31CEF9D4D72DC88699852C89870B6C3A04CF9DDADF944"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-7cb5b838-b6c0-47bb-85b5-ca5fbc90fb9f.png",
+    "saved": "references/machines/adamantite-furnace-frame.png",
+    "status": "saved",
+    "bytes": 79361,
+    "sha256": "50D68C4F07EF210F24706C21BF65B6CB109BE52B9E0F6679431BFEE8C9FF5E6F"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-d1c1b8e8-a018-4633-9988-59e866d56162.png",
+    "saved": "references/materials/high-grade-manastone-reference.png",
+    "status": "saved",
+    "bytes": 100369,
+    "sha256": "BA113CEB2A405D5E9B3145397E408679309338312DCF95E3096C34587DBCB413"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-7b70f598-c220-40da-9b87-8b58e7fdccbe.png",
+    "saved": "references/feedback/symbol-extra-frame.png",
+    "status": "saved",
+    "bytes": 27750,
+    "sha256": "33B64FC2EFFF779DC355A0F83515CD4376BB1D231A2A0FC3B9FD3AE6B8E1E6BF"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-1853fed4-3e7f-4133-8033-e00d53db4f01.png",
+    "saved": "references/feedback/fullscreen-offset.png",
+    "status": "saved",
+    "bytes": 77218,
+    "sha256": "009FD8E54217B27B61E065B0FA69D5C4B99C9EE568717C20BCEF865F779F415A"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-9ada428b-3688-4e78-83a3-92a334ab7e50.png",
+    "saved": "references/feedback/blurred-lines.png",
+    "status": "saved",
+    "bytes": 71351,
+    "sha256": "91A796B5EB5A367E09D6F12FBEA6DC8E19B8A57FC5B58C20BC5A32391884406B"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-bd4d1de1-6dac-4268-9f5c-0c7bc5dcb012.png",
+    "saved": "references/feedback/broken-line-pixels.png",
+    "status": "saved",
+    "bytes": 53075,
+    "sha256": "369B7E639275ABEA7166FCD30E91944CF5281566E1161D952C505EC0E86BADFB"
+  },
+  {
+    "source": "C:\\Users\\vital\\AppData\\Local\\Temp\\codex-clipboard-1ca4fe6d-6da3-4c36-b7d2-5e266004ab0c.png",
+    "saved": "references/feedback/smeared-symbols.png",
+    "status": "saved",
+    "bytes": 35425,
+    "sha256": "EF756F68331270C2599AF0A08B33EBC1F7947731951D25E0A2450338204C85B4"
+  },
+  {
+    "source": "C:\\Users\\vital\\Downloads\\tt_8056880927_119760_1790773601008.mp4",
+    "saved": "references/effects/tt_8056880927_119760_1790773601008.mp4",
+    "status": "saved",
+    "bytes": 9060140,
+    "sha256": "440E57A866003D537F84F477A7D9FA10BC776CBECDA9D29DB5AA18DCD093FD38"
+  }
+]

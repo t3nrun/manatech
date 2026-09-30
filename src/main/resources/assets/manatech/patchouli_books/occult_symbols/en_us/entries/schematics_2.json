@@ -1,0 +1,87 @@
+{
+  "name": "Energy — schematics",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Open Grimoire → Schematics. Circles I–VII require every page through 2/3/5/7/9/10/12. The bottom button cycles pages and the combined overlay. Each page needs a closed contour around Creation. Scroll to zoom. Align on the overlay table sorts and centers pages."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Lighten. Creation + Density. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Rotate. Creation + Movement. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Stabilize. Creation. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Beam. Creation + Movement + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Burst. Creation + Density + Area. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Hover. Creation + Movement + Density + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Load. Creation + Movement + Density. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Stabilize Link. Creation + Defense + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Transfer. Creation + Movement + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Containment. Creation + Area + Defense + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Focused Beam. Creation + Movement + Density + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Network. Creation + Movement + Quantity + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Cascade. Creation + Movement + Density + Quantity + Link. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Levitation Field. Creation + Movement + Density + Area + Link. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Reactor. Creation + Density + Link + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Core. Creation + Density + Defense + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Grid. Creation + Movement + Quantity + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Resonance. Creation + Movement + Density + Area + Link. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "References do not grant pages or unlock circles. Creation belongs in the center of every page. Specific casting effects currently exist for 21 Fire forms of circles 1–6. Other forms and circle 7 are still planned."
+    }
+  ]
+}

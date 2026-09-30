@@ -1,0 +1,107 @@
+{
+  "name": "Water — schematics",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Open Grimoire → Schematics. Circles I–VII require every page through 2/3/5/7/9/10/12. The bottom button cycles pages and the combined overlay. Each page needs a closed contour around Creation. Scroll to zoom. Align on the overlay table sorts and centers pages."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Create water. Creation. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Water jet. Creation + Movement. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Cool a heated item. Creation. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Water sphere. Creation + Movement + Density. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Water screen. Creation. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Ice shard. Creation + Movement + Cooling. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Water cutter. Creation + Movement + Density. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Whirlpool. Creation + Movement + Area. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Water shackles. Creation + Density + Link. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Water dome. Creation + Density + Area + Defense. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Water volley. Creation + Movement + Density + Quantity. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Ice volley. Creation + Movement + Density + Cooling + Quantity. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Cold veil. Creation + Cooling + Area + Defense. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Tidal wave. Creation + Movement + Area. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Water storm. Creation + Movement + Area + Quantity. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Deep spear. Creation + Movement + Density. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Deep prison. Creation + Density + Link + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Great whirlpool. Creation + Movement + Density + Area. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Water fortress. Creation + Defense + Link + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Ice fortress. Creation + Cooling + Defense + Link + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Ocean heart. Creation + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Great tide. Creation + Movement + Area + Quantity. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Abyss. Creation + Density + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "References do not grant pages or unlock circles. Creation belongs in the center of every page. Specific casting effects currently exist for 21 Fire forms of circles 1–6. Other forms and circle 7 are still planned."
+    }
+  ]
+}

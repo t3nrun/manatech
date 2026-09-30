@@ -1,0 +1,20 @@
+{
+  "values": [
+    "manatech:adamantite_block",
+    "manatech:adamantite_drain",
+    "manatech:adamantite_furnace",
+    "manatech:adamantite_ore",
+    "manatech:deepslate_adamantite_ore",
+    "manatech:deepslate_manastone_ore",
+    "manatech:deepslate_mithril_ore",
+    "manatech:deepslate_orichalcum_ore",
+    "manatech:deepslate_silver_ore",
+    "manatech:mana_plate",
+    "manatech:mithril_block",
+    "manatech:mithril_ore",
+    "manatech:orichalcum_block",
+    "manatech:orichalcum_ore",
+    "manatech:silver_block",
+    "manatech:silver_ore"
+  ]
+}

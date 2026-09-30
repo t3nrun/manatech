@@ -1,0 +1,15 @@
+{
+  "name": "Nine symbols",
+  "category": "manatech:marks",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "From left to right: seal — Creation; eye — Movement; spiral — Density; wheel — Cooling; cross — Area; three rings — Quantity; compass — Defense; crescent — Link; portal — Space."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hover a palette symbol to read its description. Symbols are shared across every layer and tool tier. Research restrictions are not active yet."
+    }
+  ]
+}

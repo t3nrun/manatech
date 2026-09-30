@@ -1,0 +1,98 @@
+[
+  {
+    "name": "silver_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-f81000cd-3324-4b0f-9482-a33cf72205a5.png",
+    "prompt": "Minecraft game texture asset, a flat square silver ore tile in ordinary medium-gray stone. Strict 16x16 logical pixel grid, enlarged nearest-neighbor pixel art: exactly 16 columns and 16 rows of uniform solid-color cells. Gray stone texture with 3 small irregular silver mineral deposits, white and pale gray highlights, charcoal-gray edges, muted metal with no blue tint. Ore occupies about 25 percent. Full bleed orthographic tile, no perspective, no border, no text, no blur, no gradients. Must read crisply when reduced to 16x16."
+  },
+  {
+    "name": "deepslate_silver_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-da05743c-e0d9-4448-85e7-28eeea083b02.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Flat full-bleed square silver ore block tile in dark charcoal-gray deepslate with horizontally layered stone pattern. Three separated small irregular mineral deposits occupy 25 percent of tile. Mineral palette white-silver and pale gray highlights, charcoal-gray edges, neutral metal, no blue tint. No perspective."
+  },
+  {
+    "name": "raw_silver",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-a2a66af0-ff1f-4cef-9efd-2958c279f4b7.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Single compact irregular raw silver ore nugget item, lumpy mineral chunk with exposed metal facets and a few tiny dark stone inclusions, asymmetrical roughly rounded silhouette, centered occupying 75 percent of tile. Palette white-silver and pale gray highlights, charcoal-gray edges, neutral metal, no blue tint. Genuine transparent background, no floor or shadow."
+  },
+  {
+    "name": "silver_ingot",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-f6722409-e8f7-46fa-afc3-e0eea3e90c8d.png",
+    "prompt": "Minecraft inventory ingot sprite designed NATIVELY as EXACTLY 16 columns by 16 rows of solid pixel cells, displayed enlarged. This is a very low resolution 16x16 sprite, NOT detailed pixel art later shrunk. Single silver ingot, palette white-silver and pale gray highlights, charcoal-gray edges, neutral metal, no blue tint. Strong wide horizontal ingot silhouette, width 12 logical pixels and height 7 pixels, centered on the 16x16 grid. A trapezoidal metal bullion bar with a clearly separated broad top face, front face, small right side face, and dark one-pixel bottom edge. Simple 5-color palette; 2-pixel broad highlight on top. No single sparkle noise, no complex facets, no ore nugget shape, no diagonal round stone. Every visible pixel is exactly one sixteenth of full image width and height and aligned to that grid. Genuine transparent background, generous empty margin, no shadow, no blur, no antialiasing, no smooth gradients, no text, no grid lines."
+  },
+  {
+    "name": "orichalcum_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-af785dc5-5c07-4a96-8c65-8ef3dbf19caf.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material orichalcum, mineral palette warm copper-gold and amber-orange highlights, dark burnt-copper edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in ordinary medium-gray stone. No perspective."
+  },
+  {
+    "name": "deepslate_orichalcum_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-83d79c88-0e80-4cf0-85ce-9a1ea060a71f.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material orichalcum, mineral palette warm copper-gold and amber-orange highlights, dark burnt-copper edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in dark charcoal-gray deepslate with horizontally layered pattern. No perspective."
+  },
+  {
+    "name": "raw_orichalcum",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-ba47722a-ec51-4a88-ae83-e8ab984b5be8.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material orichalcum, mineral palette warm copper-gold and amber-orange highlights, dark burnt-copper edges. Single raw ore inventory item, compact irregular roughly rounded lumpy mineral nugget with angular exposed metal facets and a few dark rock inclusions, centered occupies 75 percent of tile. Genuine transparent background, no floor or shadow."
+  },
+  {
+    "name": "orichalcum_ingot",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-deb37695-a51b-4362-9fc5-2fbc7367dce6.png",
+    "prompt": "Minecraft inventory ingot sprite designed NATIVELY as EXACTLY 16 columns by 16 rows of solid pixel cells, displayed enlarged. This is a very low resolution 16x16 sprite, NOT detailed pixel art later shrunk. Single orichalcum ingot, palette warm copper-gold and amber-orange highlights, dark burnt-copper edges. Strong wide horizontal ingot silhouette, width 12 logical pixels and height 7 pixels, centered on the 16x16 grid. A trapezoidal metal bullion bar with a clearly separated broad top face, front face, small right side face, and dark one-pixel bottom edge. Simple 5-color palette; 2-pixel broad highlight on top. No single sparkle noise, no complex facets, no ore nugget shape, no diagonal round stone. Every visible pixel is exactly one sixteenth of full image width and height and aligned to that grid. Genuine transparent background, generous empty margin, no shadow, no blur, no antialiasing, no smooth gradients, no text, no grid lines."
+  },
+  {
+    "name": "adamantite_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-47367a8d-a638-4023-85fc-90fb54d5202e.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material adamantite, mineral palette deep crimson and dark burgundy red, red-steel highlights, very dark maroon edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in ordinary medium-gray stone. No perspective."
+  },
+  {
+    "name": "deepslate_adamantite_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-4481d84c-5ec1-4e1a-a3ec-ee3a0de8148a.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material adamantite, mineral palette deep crimson and dark burgundy red, red-steel highlights, very dark maroon edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in dark charcoal-gray deepslate with horizontally layered pattern. No perspective."
+  },
+  {
+    "name": "raw_adamantite",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-a25fc25c-0ab0-452e-a5a6-da81c048f292.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material adamantite, mineral palette deep crimson and dark burgundy red, red-steel highlights, very dark maroon edges. Single raw ore inventory item, compact irregular roughly rounded lumpy mineral nugget with angular exposed metal facets and a few dark rock inclusions, centered occupies 75 percent of tile. Genuine transparent background, no floor or shadow."
+  },
+  {
+    "name": "adamantite_ingot",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-842fffde-7628-4717-beba-e48ac0e90448.png",
+    "prompt": "Minecraft inventory ingot sprite designed NATIVELY as EXACTLY 16 columns by 16 rows of solid pixel cells, displayed enlarged. This is a very low resolution 16x16 sprite, NOT detailed pixel art later shrunk. Single adamantite ingot, palette deep crimson and dark burgundy red, red-steel highlights, very dark maroon edges. Strong wide horizontal ingot silhouette, width 12 logical pixels and height 7 pixels, centered on the 16x16 grid. A trapezoidal metal bullion bar with a clearly separated broad top face, front face, small right side face, and dark one-pixel bottom edge. Simple 5-color palette; 2-pixel broad highlight on top. No single sparkle noise, no complex facets, no ore nugget shape, no diagonal round stone. Every visible pixel is exactly one sixteenth of full image width and height and aligned to that grid. Genuine transparent background, generous empty margin, no shadow, no blur, no antialiasing, no smooth gradients, no text, no grid lines."
+  },
+  {
+    "name": "mithril_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-5a85c845-2c78-4bf8-b385-e95a9eb26e80.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material mithril, mineral palette pale icy turquoise-silver, silvery cyan highlights, subdued teal-blue edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in ordinary medium-gray stone. No perspective."
+  },
+  {
+    "name": "deepslate_mithril_ore",
+    "kind": "block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-2dabbcad-2e02-4597-bb5a-d3f6769f582a.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material mithril, mineral palette pale icy turquoise-silver, silvery cyan highlights, subdued teal-blue edges. Flat full-bleed square ore texture block tile, three separated small mineral deposits occupy about 25 percent of tile, embedded in dark charcoal-gray deepslate with horizontally layered pattern. No perspective."
+  },
+  {
+    "name": "raw_mithril",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-c37e64ff-30bc-4233-a174-cbc3e9fe2243.png",
+    "prompt": "Strict Minecraft pixel art intended for a 16x16 PNG. Exactly 16 columns and 16 rows of large solid-color logical pixels across the whole square. Hard rectangular pixel edges. Limited palette, no blur, no gradients, no text, no watermark, no border. Material mithril, mineral palette pale icy turquoise-silver, silvery cyan highlights, subdued teal-blue edges. Single raw ore inventory item, compact irregular roughly rounded lumpy mineral nugget with angular exposed metal facets and a few dark rock inclusions, centered occupies 75 percent of tile. Genuine transparent background, no floor or shadow."
+  },
+  {
+    "name": "mithril_ingot",
+    "kind": "item",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-53457b57-34d7-4b42-b236-2097ab361f8c.png",
+    "prompt": "Minecraft inventory ingot sprite designed NATIVELY as EXACTLY 16 columns by 16 rows of solid pixel cells, displayed enlarged. This is a very low resolution 16x16 sprite, NOT detailed pixel art later shrunk. Single mithril ingot, palette pale icy turquoise-silver, silvery cyan highlights, subdued teal-blue edges. Strong wide horizontal ingot silhouette, width 12 logical pixels and height 7 pixels, centered on the 16x16 grid. A trapezoidal metal bullion bar with a clearly separated broad top face, front face, small right side face, and dark one-pixel bottom edge. Simple 5-color palette; 2-pixel broad highlight on top. No single sparkle noise, no complex facets, no ore nugget shape, no diagonal round stone. Every visible pixel is exactly one sixteenth of full image width and height and aligned to that grid. Genuine transparent background, generous empty margin, no shadow, no blur, no antialiasing, no smooth gradients, no text, no grid lines."
+  }
+]

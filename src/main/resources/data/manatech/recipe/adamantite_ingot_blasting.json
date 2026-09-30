@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "manatech:raw_adamantite"
+    },
+    {
+      "item": "manatech:adamantite_ore"
+    },
+    {
+      "item": "manatech:deepslate_adamantite_ore"
+    }
+  ],
+  "result": {
+    "id": "manatech:adamantite_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

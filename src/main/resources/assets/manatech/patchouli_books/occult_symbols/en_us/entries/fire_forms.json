@@ -1,0 +1,35 @@
+{
+  "name": "Fire: circles 1–6",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The highest authored Fire layer determines the circle. Fire symbols select the form. Circles 1–6 require matching player ranks and central Creation. The grimoire names the resolved form. Sneak-use it to cast. Higher circles cost much more mana."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: flame with Creation; sparks with Quantity; heating with Density. Heating currently relights a targeted campfire."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: fireball with Movement; barrage with Quantity and Movement; fire zone with Area. Fireballs are projectiles; the zone lasts several seconds."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: meteor with Density and Movement; flamethrower with Movement; greater barrage with Quantity, Area and Movement."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: meteorite with Density and Movement; tornado with Area, Movement, Link and an Air layer; long barrage with Quantity, Area and Link; held flamethrower with Movement and Link."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: meteor rain with Quantity, Area, Density and Movement; storm with Area, Movement and Link; flame pillar with Density and Link; flame beam with Density and Movement. The pillar ignites the adamantite furnace."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: heat disintegration with Density and Link; sun shard with Density and Space; large explosion with Area and Density; holy beam with Density, Movement and Defense. The holy beam grants short resistance."
+    }
+  ]
+}

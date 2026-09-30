@@ -1,0 +1,12 @@
+{
+  "textures": {
+    "particle": "manatech:block/mana_plate_side",
+    "metal": "manatech:block/mana_plate_side",
+    "top": "manatech:block/mana_plate_top"
+  },
+  "elements": [
+    { "from": [0, 0, 0], "to": [16, 2, 16], "faces": { "north": { "texture": "#metal" }, "south": { "texture": "#metal" }, "east": { "texture": "#metal" }, "west": { "texture": "#metal" }, "up": { "texture": "#top" }, "down": { "texture": "#metal" } } },
+    { "from": [1, 2, 1], "to": [15, 3, 15], "faces": { "north": { "texture": "#metal" }, "south": { "texture": "#metal" }, "east": { "texture": "#metal" }, "west": { "texture": "#metal" }, "up": { "texture": "#top" }, "down": { "texture": "#metal" } } },
+    { "from": [3, 3, 3], "to": [13, 4, 13], "faces": { "north": { "texture": "#metal" }, "south": { "texture": "#metal" }, "east": { "texture": "#metal" }, "west": { "texture": "#metal" }, "up": { "texture": "#top" }, "down": { "texture": "#metal" } } }
+  ]
+}

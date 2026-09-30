@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "manatech:block/adamantite_machine_top",
+    "front": "manatech:block/adamantite_drain_front",
+    "side": "manatech:block/adamantite_machine_side"
+  }
+}

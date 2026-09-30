@@ -1,0 +1,41 @@
+# Gradle caches and generated builds
+/.gradle/
+/build/
+/build-verify*/
+/out/
+/bin/
+
+# Development game instances and logs
+/runs/
+/run/
+/logs/
+/crash-reports/
+
+# Local agent and editor state
+/.codex/
+/.agents/
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files and credentials
+__pycache__/
+*.pyc
+*.class
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/credentials/
+/secrets/
+
+# Keep the Gradle wrapper and the bundled development dependencies.
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+!libs/*.jar

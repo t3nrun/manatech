@@ -1,0 +1,107 @@
+{
+  "name": "Earth — schematics",
+  "category": "manatech:magic",
+  "icon": "manatech:rune_layer_page",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Open Grimoire → Schematics. Circles I–VII require every page through 2/3/5/7/9/10/12. The bottom button cycles pages and the combined overlay. Each page needs a closed contour around Creation. Scroll to zoom. Align on the overlay table sorts and centers pages."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Lift stone. Creation + Movement. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Earth rise. Creation. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 1: Compact soil. Creation + Density. Requires all pages 1–2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Stone spike. Creation + Density. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Stone screen. Creation. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 2: Stone throw. Creation + Movement + Density. Requires all pages 1–3."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Stone volley. Creation + Movement + Quantity. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Earth shackles. Creation + Link. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Earth wave. Creation + Movement + Area. Requires all pages 1–5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Earth Projectile. Creation + Movement. Requires all pages 1–5.Page 2 uses Air."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 3: Mud. Creation. Requires all pages 1–5.Page 2 uses Water."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Stone armor. Creation + Defense + Link. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Spike forest. Creation + Area + Quantity. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 4: Temporary bridge. Creation + Space. Requires all pages 1–7."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Earthquake. Creation + Movement + Density + Area. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Stone guardian. Creation + Movement + Defense + Link. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 5: Rockfall. Creation + Movement + Density + Quantity. Requires all pages 1–9."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Earth fortress. Creation + Defense + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Rift. Creation + Movement + Area + Space. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 6: Stone tomb. Creation + Density + Link. Requires all pages 1–10."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Mountain rise. Creation + Movement + Area. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Tectonic strike. Creation + Movement + Density + Area. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Circle 7: Unbreakable bastion. Creation + Density + Defense + Link + Space. Requires all pages 1–12."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "References do not grant pages or unlock circles. Creation belongs in the center of every page. Specific casting effects currently exist for 21 Fire forms of circles 1–6. Other forms and circle 7 are still planned."
+    }
+  ]
+}

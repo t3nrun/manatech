@@ -1,0 +1,22 @@
+[
+  {
+    "name": "adamantite_furnace_front",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-4586dde2-82a4-42a7-8c0a-8bcf14137cd0.png",
+    "prompt": "Edit this Minecraft furnace front texture ONLY by adding thin dark-red metallic grate bars across both black furnace openings. Keep the burgundy casing, borders, corner bolts, pixel-art style and geometry exactly. The large lower mouth has three vertical adamantite bars and one horizontal crossbar, with large clearly black empty spaces between. The small upper slot has two vertical bars. Bars must be narrow enough to read at 16x16, no dense mesh. Unlit, no flame, no orange. Flat texture only."
+  },
+  {
+    "name": "adamantite_drain_front",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-902d3eb2-c944-4bcc-bd94-d418e2ccbb9e.png",
+    "prompt": "Edit this Minecraft adamantite drain block texture ONLY by adding a sturdy thin dark-crimson metallic grate over the central black outlet. Two vertical bars and two horizontal bars leaving nine large visibly black holes; sparse readable grate at 16x16, not dense mesh. Preserve burgundy metal casing, red highlighted frame, corner bolts, lower pouring lip, flat orthographic pixel-art block texture. No flame, no liquid, no gradients, no perspective. Keep other features unchanged."
+  },
+  {
+    "name": "adamantite_machine_side",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-14843d7a-3348-4142-8d3d-f71d20077f79.png",
+    "prompt": "Minecraft adamantite furnace and drain shared side face block texture, full-bleed flat square tile. Strict 16x16 logical pixel-art grid, solid-color pixels, no blur, no gradients, no perspective. Dark burgundy crimson metal with restrained red-steel highlights, thick reinforced rim, one rivet in each corner. A plain recessed square reinforced metal plate with subtle vertical seams. No openings, no grille, no symbols. No text, no flame, no orange. Match dark-red adamantite metal industrial furnace casing."
+  },
+  {
+    "name": "adamantite_machine_top",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-0537108e-36fd-4337-84a0-4d10fa0cbf68.png",
+    "prompt": "Minecraft adamantite furnace and drain shared top face block texture, full-bleed flat square tile. Strict 16x16 logical pixel-art grid, solid-color pixels, no blur, no gradients, no perspective. Dark burgundy crimson metal with restrained red-steel highlights, thick reinforced rim, one rivet in each corner. A solid reinforced top plate with a simple cross-shaped seam dividing four metal panels. No opening, no grille. No text, no flame, no orange. Match dark-red adamantite metal industrial furnace casing."
+  }
+]

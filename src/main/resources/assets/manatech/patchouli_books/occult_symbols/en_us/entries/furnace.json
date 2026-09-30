@@ -1,0 +1,81 @@
+{
+  "name": "Adamantite furnace",
+  "category": "manatech:tech",
+  "icon": "manatech:adamantite_furnace",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Build a 4×4×4 cube: 32 polished blackstone bricks along its edges, 16 adamantite blocks for the floor, ceiling and two side walls, and an empty 2×2×2 core. Four furnaces face outward at the front; four drains face outward at the rear."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Use an empty hand on a furnace to validate the structure. Errors report a position and the required block. Use the projection below for placement."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Select a Fire spell with Creation, Density and Link. At level 41+, use its grimoire on a furnace: 16.38k MP heats all four lanes for 60 seconds. Creative mode allows testing with any grimoire."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Use raw mithril or its ore on a front furnace. Smelting takes 10 seconds per item. Use the opposite drain to collect output. Sneak-use the furnace with an empty hand to retrieve input."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hoppers insert at furnaces and extract at drains. A broken structure stops processing. Reheat after the flame expires."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Use a front furnace to open its lane: ore on the left, ingots on the right. The menu shows structure validity, remaining heat and smelting progress. Closing preserves items. Rear drains and hoppers still extract output."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Adamantite furnace",
+      "multiblock": {
+        "name": "Adamantite furnace",
+        "mapping": {
+          "B": "minecraft:polished_blackstone_bricks",
+          "A": "manatech:adamantite_block",
+          "F": "manatech:adamantite_furnace[facing=north]",
+          "0": "manatech:adamantite_furnace[facing=north]",
+          "D": "manatech:adamantite_drain[facing=south]"
+        },
+        "pattern": [
+          [
+            "BBBB",
+            "BAAB",
+            "BAAB",
+            "BBBB"
+          ],
+          [
+            "BAAB",
+            "F  D",
+            "F  D",
+            "BAAB"
+          ],
+          [
+            "BAAB",
+            "0  D",
+            "F  D",
+            "BAAB"
+          ],
+          [
+            "BBBB",
+            "BAAB",
+            "BAAB",
+            "BBBB"
+          ]
+        ],
+        "symmetrical": false
+      },
+      "enable_visualize": true
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "manatech:adamantite_furnace"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "manatech:adamantite_drain"
+    }
+  ]
+}

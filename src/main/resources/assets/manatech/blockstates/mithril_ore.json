@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "manatech:block/mithril_ore"
+    }
+  }
+}

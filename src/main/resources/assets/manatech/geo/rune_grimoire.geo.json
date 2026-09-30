@@ -1,0 +1,43 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.rune_grimoire",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0.5, 0]
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {"origin": [-5, -1, -7], "size": [10, 0.8, 14], "uv": [0, 0]},
+            {"origin": [-4.6, -0.2, -6.4], "size": [9.2, 1.4, 12.8], "uv": [0, 18]},
+            {"origin": [-5.7, -0.9, -7], "size": [1.3, 2.9, 14], "uv": [0, 36]},
+            {"origin": [4.8, 0.2, -1.5], "size": [0.8, 1.2, 3], "uv": [32, 36]},
+            {"origin": [5.55, 0.52, -0.45], "size": [0.2, 0.55, 0.9], "uv": [32, 55]}
+          ]
+        },
+        {
+          "name": "cover",
+          "parent": "root",
+          "pivot": [-5, 1.2, 0],
+          "cubes": [
+            {"origin": [-5, 1.2, -7], "size": [10, 0.8, 14], "uv": [0, 0]},
+            {"origin": [-4.7, 2.01, -6.7], "size": [1.1, 0.12, 1.1], "uv": [32, 36]},
+            {"origin": [3.6, 2.01, -6.7], "size": [1.1, 0.12, 1.1], "uv": [32, 36]},
+            {"origin": [-4.7, 2.01, 5.6], "size": [1.1, 0.12, 1.1], "uv": [32, 36]},
+            {"origin": [3.6, 2.01, 5.6], "size": [1.1, 0.12, 1.1], "uv": [32, 36]},
+            {"origin": [-0.18, 2.02, -2.1], "size": [0.36, 0.12, 4.2], "uv": [32, 36]},
+            {"origin": [-1.75, 2.02, -0.18], "size": [3.5, 0.12, 0.36], "uv": [32, 36]},
+            {"origin": [-0.55, 2.14, -0.55], "size": [1.1, 0.2, 1.1], "uv": [32, 55]}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "silver_block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-f09a1024-a791-4003-90ed-f38135357bb9.png",
+    "prompt": "Minecraft metal STORAGE BLOCK face texture of silver. A solid block of refined metal, NOT ore in stone. white-silver and pale gray highlights, charcoal-gray edges, neutral metal, no blue tint. Flat orthographic full-bleed square tile, strict 16x16 logical pixel grid, solid-color cells, hard pixel edges, no gradients, no blur. Simple cohesive brushed metal surface with a restrained broad diagonal highlight, beveled border one logical pixel wide. No gems, no runes, no holes, no rivets, no text, no perspective. Vanilla Minecraft iron/gold block style but distinctive material color."
+  },
+  {
+    "name": "orichalcum_block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-8b092851-7fff-412e-bff2-d30d6e3caac1.png",
+    "prompt": "Minecraft metal STORAGE BLOCK face texture of orichalcum. A solid block of refined metal, NOT ore in stone. warm copper-gold and amber-orange highlights, dark burnt-copper edges. Flat orthographic full-bleed square tile, strict 16x16 logical pixel grid, solid-color cells, hard pixel edges, no gradients, no blur. Simple cohesive brushed metal surface with a restrained broad diagonal highlight, beveled border one logical pixel wide. No gems, no runes, no holes, no rivets, no text, no perspective. Vanilla Minecraft iron/gold block style but distinctive material color."
+  },
+  {
+    "name": "adamantite_block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-c38af623-4380-47ee-b5c1-d883eabed940.png",
+    "prompt": "Minecraft metal STORAGE BLOCK face texture of adamantite. Solid refined metal block, NOT ore in stone. Palette deep crimson and dark burgundy red, red-steel highlights, very dark maroon edges. Flat orthographic full-bleed square tile, strict 16x16 logical pixel grid, solid-color cells, hard pixel edges, no gradients or blur. Cohesive plain metal surface, subtle broad diagonal highlight and bevel border one logical pixel wide. No gems, no runes, no holes, no rivets, no text, no perspective. Vanilla Minecraft iron/gold block visual style with distinctive material color."
+  },
+  {
+    "name": "mithril_block",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-d19afbf6-50c8-49f3-9f97-f4fe4f16ce60.png",
+    "prompt": "Minecraft metal STORAGE BLOCK face texture of mithril. Solid refined metal block, NOT ore in stone. Palette pale icy turquoise-silver, silvery cyan highlights, subdued teal-blue edges. Flat orthographic full-bleed square tile, strict 16x16 logical pixel grid, solid-color cells, hard pixel edges, no gradients or blur. Cohesive plain metal surface, subtle broad diagonal highlight and bevel border one logical pixel wide. No gems, no runes, no holes, no rivets, no text, no perspective. Vanilla Minecraft iron/gold block visual style with distinctive material color."
+  },
+  {
+    "name": "manastone_processing_table_top",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-62c6ecdd-6f31-40cf-bb6e-e2493bdecaaf.png",
+    "prompt": "Minecraft pixel-art WOODEN TABLE TOP surface texture. Flat orthographic square full-bleed tile, exactly 16x16 logical pixels, enlarged hard solid-color cells. Simple ordinary wooden work table for manually processing magic stones. Warm medium oak-brown planks, 4 clear vertical boards separated by subtle dark grain seams, modest worn scratches, restrained palette, clean readable tabletop. No tools, no stones, no magic circles, no symbols, no objects, no frame outside tile, no perspective, no gradients, no blur, no text."
+  },
+  {
+    "name": "manastone_processing_table_wood",
+    "path": "C:\\Users\\vital\\.codex\\generated_images\\01a0e164-669d-7720-8549-0bd71dc8f9a9\\exec-01e5fb0e-e56a-4cfd-89b0-36ea4038420d.png",
+    "prompt": "Minecraft pixel-art ordinary oak-brown wood surface texture for a table's legs and edge. Flat orthographic square full-bleed tile, strict 16x16 logical pixel grid, enlarged nearest neighbor hard solid-color cells. Warm medium-to-dark oak brown matching an ordinary wooden work table, vertical subtle wood grain and small natural knots, single continuous timber surface without metal fittings. No objects, no runes, no tools, no symbols, no perspective, no blur, no gradients, no text. Restrained vanilla Minecraft palette."
+  }
+]

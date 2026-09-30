@@ -1,0 +1,15 @@
+{
+  "name": "Ores and manastones",
+  "category": "manatech:tech",
+  "icon": "manatech:deepslate_manastone_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Silver needs a stone pickaxe; other new ores need iron. Mithril is very rare in mountains. New ores appear in new chunks."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Silver, orichalcum and adamantite use ordinary smelting. Mithril requires the multiblock furnace. Manual manastone cutting is available; automation and later upgrades are not active yet."
+    }
+  ]
+}
